@@ -54,6 +54,15 @@
 
 ---
 
+## 🖥️ Hardware — Assembly & Maintenance
+
+- 🔧 **1,000+ computers** assembled, upgraded, and repaired
+- 🧒 Building PCs **since age 12** — hardware is where my passion for tech started
+- 🧰 Diagnostics, troubleshooting, performance tuning, and preventive maintenance
+- 👨‍🏫 Turned that hands-on experience into teaching as a **Hardware Instructor**
+
+---
+
 # 🛠️ Tech Stack
 
 | Category | Technologies |
