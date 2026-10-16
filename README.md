@@ -54,16 +54,23 @@
 
 ---
 
-## � Computer Assembly & Maintenance
+## 🔧 Computer Assembly & Maintenance
 
-*Where it all started — building PCs since age 12, long before my first `hello world`.*
+[![Hardware boot log](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=600&color=3FB950&multiline=true&width=720&height=210&lines=%24+cat+hardware_service_record.log;ASSEMBLY+......+1%2C000%2B+PCs+built+from+scratch+...+%5BOK%5D;DIAGNOSTICS+...+component-level+fault+trace+...+%5BOK%5D;REPAIR+.......+hardware+%2B+software+fixes+.....+%5BOK%5D;MAINTENANCE+..+preventive+care+%2B+upgrades+...+%5BOK%5D;INSTRUCTION+..+Microway+hardware+instructor+..+%5BOK%5D;ALL+TESTS+PASSED+%E2%80%94+STILL+RUNNING+%E2%96%88)](https://git.io/typing-svg)
 
-| Area | What I Did |
-|:---:|---|
-| **🛠️ Assembly** | **1,000+ computers** built from scratch — component selection, mounting, cabling, and setup |
-| **🔍 Diagnostics & Repair** | Hardware fault isolation, component replacement, and software/OS troubleshooting |
-| **🔄 Maintenance** | Preventive maintenance, hardware upgrades, and performance tuning |
-| **👨‍🏫 Instruction** | **Hardware Instructor** at Microway — trained students to assemble, configure, diagnose, and repair computers |
+```text
+┌─ HARDWARE SERVICE RECORD ──────────────── BOOT: AGE 12 ─┐
+│                                                         │
+│  ASSEMBLY ........ 1,000+ PCs built from scratch [ OK ] │
+│  DIAGNOSTICS ..... component-level fault trace   [ OK ] │
+│  REPAIR .......... hardware + software fixes     [ OK ] │
+│  MAINTENANCE ..... preventive care + upgrades    [ OK ] │
+│  INSTRUCTION ..... Microway hardware instructor  [ OK ] │
+│                                                         │
+└──────────── ALL TESTS PASSED — STILL RUNNING ───────────┘
+```
+
+*Before the code, there was the hardware — and it never really went away.*
 
 ---
 
