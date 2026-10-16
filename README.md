@@ -17,17 +17,36 @@ I have hands-on experience with **JavaScript, React, Node.js, PHP, .NET**, and m
 
 ## 🧑‍💻 Professional Experience
 
-### **Software Development Intern**  
-**Brazilian Forestry Institute** | Curitiba, Brazil  
-📅 *Mar 2025 – Dec 2025*
+### **Full Stack Developer / IT**  
+**Brazilian Forestry Institute (IBF)** | Londrina, Brazil · Remote  
+📅 *May 2024 – Present* · Contract
 
-- Developed internal systems such as **inventory management, document management, and digital signature workflows**
-- Built and maintained features using **PHP, JavaScript, jQuery, Ajax, MySQL, and Bootstrap**
-- Integrated third-party services and internal systems using **OAuth 2.0**, REST APIs, **SSE**, and **Cron Jobs**
-- Migrated applications to **mobile-first and RESTless architectures**, improving maintainability
-- Optimized **performance and SEO** of WordPress websites, significantly improving performance metrics
-- Worked in **Scrum sprints**, contributing to API documentation, versioning, and testing with **Postman and Git**
-- Provided technical support for third-party systems, servers, domains, and infrastructure
+- Develop and maintain institutional **websites, online systems, and APIs**
+- Build and maintain features using **PHP, MySQL**, and modern web technologies
+- Handle a broad range of IT-related activities, including integrations and technical support
+
+### **Web Developer**  
+**Kubonet** | Londrina, Brazil · Remote  
+📅 *Feb 2012 – Present* · Full-time
+
+- Long-term role at a **software and systems development company**
+- Develop and maintain **web applications and systems** for client projects using **PHP** and web technologies
+
+### **Motion Graphics Designer**  
+**Lightstorm Entertainment** | Santa Monica, CA, USA · Remote  
+📅 *Nov 2021 – Nov 2023* · Freelance
+
+### **Web Developer / IT**  
+**Brazilian Forestry Institute (IBF)** | Londrina, Brazil · On-site  
+📅 *Nov 2009 – Dec 2011* · Full-time
+
+- Developed **newsletters** and maintained the **IBF Group websites** built on **Joomla!**
+
+### **Hardware Instructor — Assembly & Maintenance**  
+**Microway - Professional IT Training** | Londrina, Brazil · On-site  
+📅 *Feb 2008 – Nov 2009* · Full-time
+
+- Taught **hardware, assembly, and maintenance**, training students to assemble, configure, diagnose, and troubleshoot computers
 
 ---
 
