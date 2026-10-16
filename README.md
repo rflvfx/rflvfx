@@ -54,13 +54,16 @@
 
 ---
 
-## 🖥️ Before the Code
+## � Computer Assembly & Maintenance
 
-> My journey into tech didn't start with `hello world` — it started with a **screwdriver at age 12**.
+*Where it all started — building PCs since age 12, long before my first `hello world`.*
 
-- **1,000+ computers** assembled, diagnosed, and brought back to life
-- Former **Hardware Instructor** — taught others to build what I grew up fixing
-- Knowing the machine *beneath* the software still shapes how I engineer what's *above* it
+| Area | What I Did |
+|:---:|---|
+| **🛠️ Assembly** | **1,000+ computers** built from scratch — component selection, mounting, cabling, and setup |
+| **🔍 Diagnostics & Repair** | Hardware fault isolation, component replacement, and software/OS troubleshooting |
+| **🔄 Maintenance** | Preventive maintenance, hardware upgrades, and performance tuning |
+| **👨‍🏫 Instruction** | **Hardware Instructor** at Microway — trained students to assemble, configure, diagnose, and repair computers |
 
 ---
 
