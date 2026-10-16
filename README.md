@@ -1,7 +1,7 @@
 # 👋 Hi, I'm RLSG
 
-I'm a **Full Stack Software Developer** from Brazil, passionate about building scalable web applications, automation, and clean, maintainable code.  
-I have hands-on experience with **JavaScript, React, Node.js, PHP, .NET**, and modern development workflows, working both on academic and real-world projects.
+I'm a **Full Stack Software Developer** from Brazil with **15+ years of experience** turning ideas into fast, reliable, and maintainable web applications.  
+From **APIs and backend systems** to polished frontends, I work across the entire stack — mainly with **PHP, JavaScript, MySQL, React, and Node.js** — always focused on clean code and real-world results.
 
 ---
 
