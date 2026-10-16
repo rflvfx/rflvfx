@@ -1,7 +1,8 @@
 # 👋 Hi, I'm RLSG
 
-I'm a **Full Stack Software Developer** from Brazil with **15+ years of experience** turning ideas into fast, reliable, and maintainable web applications.  
-From **APIs and backend systems** to polished frontends, I work across the entire stack — mainly with **PHP, JavaScript, MySQL, React, and Node.js** — always focused on clean code and real-world results.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=700&lines=Full+Stack+Software+Developer;15%2B+years+building+for+the+web+%F0%9F%87%A7%F0%9F%87%B7;PHP+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code%2C+real-world+results+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+💻 **Full Stack Software Developer** from Brazil 🇧🇷 — **15+ years** turning ideas into fast, reliable, and maintainable web applications, from **APIs and backend systems** to polished frontends.
 
 ---
 
