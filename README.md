@@ -5,13 +5,16 @@ I have hands-on experience with **JavaScript, React, Node.js, PHP, .NET**, and m
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Bachelor's degree in **Systems Analysis and Development**
-- Experience with **full stack web development**, APIs, and integrations
-- Strong background in **automation, system integration, and performance optimization**
-- Interested in **software architecture, clean code, and real-world problem solving**
-- Constantly learning and improving through **open source projects**
+- 🎓 Bachelor's degree in **Systems Analysis and Development**
+- 💻 **15+ years** of experience building websites, systems, and APIs
+- 🌎 Remote work experience with **international teams** across Brazil and the USA
+- 🔧 Strong background in **PHP, MySQL, JavaScript**, and full stack development
+- 🏗️ Passionate about **software architecture, clean code, and real-world problem solving**
+- 🎨 Creative side — freelance **motion graphics design** for the entertainment industry
+- 👨‍🏫 Former **IT instructor** — I enjoy sharing knowledge and mentoring
+- 📚 Constantly learning and improving through **open source projects**
 
 ---
 
