@@ -1,6 +1,6 @@
 # 👋 Hi, I'm RLSG
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=700&lines=Full+Stack+Software+Developer;15%2B+years+building+for+the+web+%F0%9F%87%A7%F0%9F%87%B7;PHP+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code%2C+real-world+results+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=700&lines=Full+Stack+Software+Developer;15%2B+years+building+for+the+web+%F0%9F%87%A7%F0%9F%87%B7;PHP+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+code%2C+real-world+results+%F0%9F%9A%80)
 
 💻 **Full Stack Software Developer** from Brazil 🇧🇷 — **15+ years** turning ideas into fast, reliable, and maintainable web applications, from **APIs and backend systems** to polished frontends.
 
@@ -56,7 +56,7 @@
 
 ## 🔧 Computer Assembly & Maintenance
 
-[![Hardware boot log](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=600&color=3FB950&multiline=true&width=720&height=210&lines=%24+cat+hardware_service_record.log;ASSEMBLY+......+1%2C000%2B+PCs+built+from+scratch+...+%5BOK%5D;DIAGNOSTICS+...+component-level+fault+trace+...+%5BOK%5D;REPAIR+.......+hardware+%2B+software+fixes+.....+%5BOK%5D;MAINTENANCE+..+preventive+care+%2B+upgrades+...+%5BOK%5D;INSTRUCTION+..+Microway+hardware+instructor+..+%5BOK%5D;ALL+TESTS+PASSED+%E2%80%94+STILL+RUNNING+%E2%96%88)](https://git.io/typing-svg)
+[![Hardware boot log](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=600&color=3FB950&multiline=true&width=720&height=210&lines=%24+cat+hardware_service_record.log;ASSEMBLY+......+1%2C000%2B+PCs+built+from+scratch+...+%5BOK%5D;DIAGNOSTICS+...+component-level+fault+trace+...+%5BOK%5D;REPAIR+.......+hardware+%2B+software+fixes+.....+%5BOK%5D;MAINTENANCE+..+preventive+care+%2B+upgrades+...+%5BOK%5D;INSTRUCTION+..+Microway+hardware+instructor+..+%5BOK%5D;ALL+TESTS+PASSED+%E2%80%94+STILL+RUNNING+%E2%96%88)
 
 ```text
 ┌─ HARDWARE SERVICE RECORD ──────────────── BOOT: AGE 12 ─┐
