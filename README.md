@@ -54,12 +54,13 @@
 
 ---
 
-## 🖥️ Hardware — Assembly & Maintenance
+## 🖥️ Before the Code
 
-- 🔧 **1,000+ computers** assembled, upgraded, and repaired
-- 🧒 Building PCs **since age 12** — hardware is where my passion for tech started
-- 🧰 Diagnostics, troubleshooting, performance tuning, and preventive maintenance
-- 👨‍🏫 Turned that hands-on experience into teaching as a **Hardware Instructor**
+> My journey into tech didn't start with `hello world` — it started with a **screwdriver at age 12**.
+
+- **1,000+ computers** assembled, diagnosed, and brought back to life
+- Former **Hardware Instructor** — taught others to build what I grew up fixing
+- Knowing the machine *beneath* the software still shapes how I engineer what's *above* it
 
 ---
 
